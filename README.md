@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://img.freepik.com/free-vector/digital-technology-background-with-blue-orange-light-effect_1017-27423.jpg?w=1380&t=st=1668010301~exp=1668010901~hmac=7e0da12cdf31983bc2360a3ded8394b9aa71e45cb7f2b1c5bde33670377b4f66" width="1000" height="300"/>
+</div>
+
+
+
 <h1 align="center">Hi 👋, I'm Brian Hudson</h1>
 <h4 align="left">I'm an HR professional with 10 years of experience dealing with a myriad of tasks, but my love has always been data. Six years ago, I began my journey with data manipulation by self-learning Excel; creating different workbooks for automation tasks via formulas, VBA and power queries, creating pivot tables/charts for presentations all while constantly improving my knowledge and efforts.
   <br>
