@@ -34,7 +34,7 @@
 
 | Name        | Tools Used          | Contributors |
 | ------------- |:-------------:| -----:|
-|<a href="https://github.com/BrianHudson91/Bike-Share-Analysis/blob/main/Bicycle_Analysis.md" target="_blank">Bike Share Analysis</a>   | R Studio | Me |
+|[Bike Share Analysis](https://github.com/BrianHudson91/SQL-Practice)   | R Studio | Me |
 | ---     | ---      |   --- |
 | ---     | ---      |   --- |
 
