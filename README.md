@@ -14,7 +14,7 @@
   Recently, I finished my training certificates on Sololearn and DataCamp for SQL and R and I just this month finished my Google Data Analytics certificate. Currently I’m honing my skills and I hope to use this newly obtained knowledge for my passion for solving problems and transition into a data analyst role. I hope that you will follow my journey as I increase my skillset through my personal projects and technical skills training and most importantly, improve my problem solving and critical thinking skills as I believe it’s the mindset, not the technical skills, that are the most important trait of a successful data analyst.</h4>
 <br>
 <h4 align="left">- ⚡ Fun fact: * I'm OCD about organization - I have a task list for my daily personal life * </h4>
-<h4 align="left">- 🌱 Currently Learning:  * Advanced SQL code, R ggplot2 visualization techniques, and webscraping with R and Google Sheets *</h4>
+<h4 align="left">- 🌱 Currently Learning:  * Advanced SQL code, R ggplot2 visualization techniques and data.table, and webscraping with R and Google Sheets *</h4>
 <h4 align="left">- 🔭 Roadmap: * Once I'm proficient in SQL and R, I will move towards Python with Numpy, Pandas, etc to diversify *</h4>
 <br>
 <h4 align="left">Connect with me:</h4>
