@@ -15,7 +15,6 @@
 <br>
 <h4 align="left">- ⚡ Fun fact: * I'm OCD about organization - I have a task list for my daily personal life * </h4>
 <h4 align="left">- 🌱 Currently Learning:  * Advanced SQL code, R ggplot2 visualization techniques and data.table, and webscraping with R and Google Sheets *</h4>
-<h4 align="left">- 🔭 Roadmap: * Once I'm proficient in SQL and R, I will move towards Python with Numpy, Pandas, etc to diversify *</h4>
 <br>
 <h4 align="left">Connect with me:</h4>
 <p align="left">
