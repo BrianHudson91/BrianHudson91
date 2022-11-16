@@ -31,17 +31,17 @@
 
 <h3 align="left"><ins>Projects</ins> </h3>
 
-| Name        | Tools Used          | Contributors |
+| Name        | Tools Used          | Status |
 | ------------- |:-------------:| -----:|
-|[Bike Share Analysis](https://github.com/BrianHudson91/Bike-Share-Analysis/blob/main/Bicycle_Analysis.md)   | R Studio | Me |
-|[Movie Webscrape](https://github.com/BrianHudson91/Movies_Webscrape)   | R Studio | Me |
+|[Bike Share Analysis](https://github.com/BrianHudson91/Bike-Share-Analysis/blob/main/Bicycle_Analysis.md)   | R Studio | Completed |
+|[Movie Webscrape](https://github.com/BrianHudson91/Movies_Webscrape)   | R Studio | Completed |
 | ---     | ---      |   --- |
 
 <h3 align="left"><ins>Tasks/Training</ins> </h3>
 
-| Name        | Tools Used          | Contributors |
+| Name        | Tools Used          | Status |
 | ------------- |:-------------:| -----:|
-|[SQL Practice](https://github.com/BrianHudson91/SQL-Practice)| T-SQL | Me |
+|[SQL Practice](https://github.com/BrianHudson91/SQL-Practice)| T-SQL | Completed |
 | ----     | ---      |   --- |
 | ----     | ---      |   --- |
 
