@@ -23,7 +23,8 @@
 
 <h4 align="left">Current Languages and Tools:</h4>
 <p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="70" height="70"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70"/> </a> 
-<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" width = "50" height="70" /></a></p>
+<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" width = "50" height="70" /></a>
+<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://imgs.search.brave.com/HeKFP_jbWroxp1HTA8Y8a1RkeJn83NddOqDGz-cj9gA/rs:fit:560:320:1/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvZW4vdGh1bWIv/Mi8yMC9Qb3dlcl9C/SV9sb2dvLnN2Zy81/MTJweC1Qb3dlcl9C/SV9sb2dvLnN2Zy5w/bmc" alt="PowerBi" width = "50" height="50" /></a></p>
 <br>
 <br>
 
