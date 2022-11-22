@@ -41,7 +41,7 @@
 
 | Name        | Tools Used          | Status |
 | ------------- |:-------------:| -----:|
-|[SQL Practice](https://github.com/BrianHudson91/SQL-Practice)| T-SQL | Completed |
+|[SQL Practice](https://github.com/BrianHudson91/SQL-Practice/blob/main/Database_Dataset.sql)| T-SQL | Completed |
 | ----     | ---      |   --- |
 | ----     | ---      |   --- |
 
